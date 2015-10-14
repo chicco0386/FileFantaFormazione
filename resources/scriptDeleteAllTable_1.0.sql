@@ -1,0 +1,1 @@
+DROP TABLE fanta_formazione.calendario, fanta_formazione.formazioni, fanta_formazione.probabili_formazioni_fg, fanta_formazione.probabili_formazioni_gazzetta, statistiche, fanta_formazione.utenti_formazioni, fanta_formazione.giocatori, fanta_formazione.giornate, fanta_formazione.squadre, fanta_formazione.utenti;
